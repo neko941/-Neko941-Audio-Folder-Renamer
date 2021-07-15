@@ -1,4 +1,4 @@
-# -Neko941-Audio-Folder-Renamer
+# [Neko941] Audio Folder Renamer
 Renaming folders based on sound quality of audio files
 
 
