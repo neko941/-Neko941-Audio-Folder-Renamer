@@ -11,4 +11,5 @@ Supported Extentions: MP3, FLAC , WAV, WV, DSF, DFF, AIFF
 
 # How to use
 Double click .exe
-![2021-07-16 00-32-56](https://user-images.githubusercontent.com/42170045/125833033-30f6eab6-039a-4286-a734-b43e0938b90a.gif)
+
+![2021-07-16 00-32-56](https://user-images.githubusercontent.com/42170045/125833816-89dda99f-7dce-4a58-a2ed-6dddb5f201fc.gif)
