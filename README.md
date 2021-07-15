@@ -4,5 +4,11 @@ Renaming folders based on sound quality of audio files
 
 Supported Extention: MP3, FLAC , WAV, WV, DSF, DFF, AIFF
 
+
+# Download
+[Here](https://github.com/neko941/-Neko941-Audio-Folder-Renamer/releases/tag/v3.0)
+
+
 # How to use
-![2021-07-16-00-32-56](https://user-images.githubusercontent.com/42170045/125832273-1303a373-92c7-42ce-8e3b-96654b0ec75d.gif)
+Double click .exe
+![2021-07-16 00-32-56](https://user-images.githubusercontent.com/42170045/125833033-30f6eab6-039a-4286-a734-b43e0938b90a.gif)
